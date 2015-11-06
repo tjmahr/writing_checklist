@@ -13,4 +13,4 @@ Fiddly things to do when finishing a paper (and you're not using a sophisticated
   * in ranges (10–20) 
   * when writing "UW–Madison" or "University of Wisconsin–Madison"
 - [ ] use a minus sign (&minus;) for negative numbers like &minus;10 `&minus;`
-- [ ] use a multiplication sign "×" `&times;` for multiplication expressions, dimensions ("100 &times; 100 pixel image") and interactions ("a significant Age &times; Language interaction")
+- [ ] use a multiplication sign (×) `&times;` for multiplication expressions, dimensions ("100 &times; 100 pixel image") and interactions ("a significant Age &times; Language interaction")
