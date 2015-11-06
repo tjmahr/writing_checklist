@@ -14,3 +14,14 @@ Fiddly things to do when finishing a paper (and you're not using a sophisticated
   * when writing "UW–Madison" or "University of Wisconsin–Madison"
 - [ ] use a minus sign (&minus;) for negative numbers like &minus;10 `&minus;`
 - [ ] use a multiplication sign (×) `&times;` for multiplication expressions, dimensions ("100 &times; 100 pixel image") and interactions ("a significant Age &times; Language interaction")
+
+### grammar
+
+- [ ] verbs after either/or and neither/nor agree with noun closest to verb. 
+  * _Neither Kiki nor Nooper was happy with their treats_.
+  * _Neither Tristan nor his cats were happy._
+
+### word count
+
+- [ ] if an abbreviation is in a "collegiate" dictionary as its own entry, you can assume the reader knows the abbreviation and not redefine it in-text
+ * IQ, SES 
